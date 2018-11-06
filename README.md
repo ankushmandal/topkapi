@@ -20,5 +20,5 @@ The code was developed and tested using GCC 6.2.0 and OpenMPI 1.10.3 on Red Hat 
 The experiments on the paper were carried out using two data sets:
 - Gutenberg dataset from [Project Gutenberg](https://www.gutenberg.org/). Useful instructions on downloading the data set can be found at [Nico's Blog](http://blog.ditullio.fr/2015/10/31/mini-cluster-part-iv-word-count-benchmark/).
 - Puma datasets under "Wikipedia" section from [here](https://engineering.purdue.edu/~puma/datasets.htm).
-<a/></a>
+<a/>
 Instructions on preprocessing the data is given in `utils` directory.

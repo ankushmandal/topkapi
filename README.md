@@ -15,6 +15,7 @@ The code was developed and tested using GCC 6.2.0 and OpenMPI 1.10.3 on Red Hat 
 1. Download the code from Github: `git clone https://github.com/ankushmandal/topkapi.git`
 2. Go to `src` directory and create the executable using `make` command
 3. For details on usage, type `./topkapi -h` or `./topkapi --help`
+4. A sample slurm script for running the program on cluster is given in `sample_slurm_script` directory under `src`
 
 ## Data
 Instructions on preprocessing any text data is given in `utils` directory. The experiments on the paper were carried out using two data sets:

@@ -7,7 +7,7 @@ This implementation finds Top-K frequent words from text data. It supports multi
 
 ## Prerequisites
 - GNU Compiler Collection (GCC)
-- OpenMPI
+- OpenMPI<br />
 The code was developed and tested using GCC 6.2.0 and OpenMPI 1.10.3 on Red Hat Enterprise Linux Server release 6.5 (Santiago).
 
 ## Quick Start on Linux
@@ -18,5 +18,5 @@ The code was developed and tested using GCC 6.2.0 and OpenMPI 1.10.3 on Red Hat 
 ## Data
 The experiments on the paper were carried out using two data sets:
 1. Gutenberg dataset from [Project Gutenberg](https://www.gutenberg.org/). Useful instructions on downloading the data set can be found at [Nico's Blog](http://blog.ditullio.fr/2015/10/31/mini-cluster-part-iv-word-count-benchmark/).
-2. Puma datasets under "Wikipedia" section from [here](https://engineering.purdue.edu/~puma/datasets.htm).
+2. Puma datasets under "Wikipedia" section from [here](https://engineering.purdue.edu/~puma/datasets.htm).<br />
 Instructions on preprocessing the data is given in `utils` directory.
